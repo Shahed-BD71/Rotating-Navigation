@@ -35,6 +35,7 @@ body {
 
 .container img {
   width: 100%;
+  border-radius: 10px;
 }
 
 .circle-container {
@@ -72,7 +73,7 @@ body {
 }
 
 .circle button#close {
-  top: 60%;
+  top: 65%;
   transform: rotate(90deg);
   transform-origin: top left;
 }
